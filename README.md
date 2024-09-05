@@ -8,4 +8,4 @@ Return the series score for Rocket League games streamed on twitch.
 
 If you have an idea or want to report a bug, please create an issue.
 
-## **[Contact](https://coleb.io/contact)**
+## **[Contact](https://github.com/ColeBallard/coleballard.github.io/blob/main/README.md)**
